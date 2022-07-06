@@ -216,11 +216,11 @@ exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghv
 
 - 👨🏽‍💻 HELLO I’m KingLasiya
 
-- ⚡️ I’m looking to collaborate on 🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS C++
+- ⚡️ I’m looking to collaborate on I’m currently learning Python Linux Shell Html PHP Java JS CSS C++
 
 - 🤔 I’m looking for Knowledge
 
-- ⚡️ My Hobby is 💫 I’m looking for New programming methord;
+- ⚡️ My Hobby is New programming
 
 - 💬 Ask me about anything, I am happy to help;
 
